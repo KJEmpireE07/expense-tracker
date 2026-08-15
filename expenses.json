@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "Amount": 99,
+        "Category": "shopping",
+        "Description": "slippers",
+        "Date": "12/08/2026"
+    },
+    {
+        "Id": 4,
+        "Amount": 100.0,
+        "Category": "shopping",
+        "Description": "shoes",
+        "Date": "15/08/2026"
+    },
+    {
+        "Id": 5,
+        "Amount": 10.0,
+        "Category": "shopping",
+        "Description": "chips",
+        "Date": "15/08/2026"
+    },
+    {
+        "Id": 6,
+        "Amount": 22.0,
+        "Category": "finance",
+        "Description": "bank",
+        "Date": "15/08/2026"
+    }
+]
